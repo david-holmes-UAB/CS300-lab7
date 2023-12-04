@@ -156,7 +156,7 @@ EvilHangman::EvilHangman() {
     families = 
     {
         {std::string("_l____"), {"alaska", "altera", "altria", "planar"}},
-        {std::string("_a____"), {"banned", "battle", "hangar", "panned"}},
+        {std::string("_a____"), {"banned", "battle", "panned"}},
         {std::string("a____a"), {"altera", "altria"}},
         {std::string("_____r"), {"hangar", "planar", "quasar"}},
         {std::string("____th"), {"breath", "health", "wreath"}},
